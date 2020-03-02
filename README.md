@@ -9,4 +9,4 @@ Food can spawn on top of the snake.
 
 ### Screenshot
 
-![snake](
+![shakeTheSnake](https://github.com/bilalsarimeseli/SNAKE-GAME/blob/master/Screen%20Shot%202020-03-02%20at%201.04.38%20AM.png)
